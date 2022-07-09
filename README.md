@@ -20,6 +20,6 @@ Nosso código, então, vai exibir a quantidade de pessoas que a ONG vai precisar
 ```shell
 git clone https://github.com/lauramsromano/MAPEAMENTO_TODO2.git
 ```
-2º Inicie o arquivo 'Laura_Romano_TODO_3.py' com uma IDE de sua preferência; <br/>
+2º Inicie o arquivo 'Laura_Romano_TODO_2.py' com uma IDE de sua preferência; <br/>
 3º Execute o arquivo, para isso procure pelo comando 'run python file' ou similar; <br/>
 4º A partir do terminal, interaja com o bot navegando pelos menus de atendimento.
