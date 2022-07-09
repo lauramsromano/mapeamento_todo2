@@ -14,7 +14,7 @@ Nosso código, então, vai exibir a quantidade de pessoas que a ONG vai precisar
 O programa solicita a quantidade da população e o valor da margem de erro a ser considerada e, utilizando a fórmula abaixo, 
 realizava o código necessário.
 
-![image](https://user-images.githubusercontent.com/106887746/178120959-f7f4aa6a-4ffc-4535-b7c0-d1d96f0b2249.png)
+### ![image](https://user-images.githubusercontent.com/106887746/178120959-f7f4aa6a-4ffc-4535-b7c0-d1d96f0b2249.png)
 
 ### :computer: <strong>Tecnologias utilizadas:</strong>
 - [Python](https://www.python.org/)
